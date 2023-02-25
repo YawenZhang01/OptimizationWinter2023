@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-nbconvert = {extras = ["webpdf"], version = "*"}
 jupyterlab = "*"
+nbconvert = {extras = ["webpdf"], version = "*"}
 
 [dev-packages]
 
